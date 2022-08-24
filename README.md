@@ -1,4 +1,4 @@
-# WebP GDK Pixbuf Loader library RPM packages
+# WebP Image format GdkPixbuf loader RPM package
 
 Project URL: https://github.com/aruiz/webp-pixbuf-loader
 
