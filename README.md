@@ -1,6 +1,4 @@
-# webp-pixbuf-loader-rpm
-
-WebP GDK Pixbuf Loader library RPM packages for Mageia-9.
+# WebP GDK Pixbuf Loader library RPM packages for Mageia-9.
 
 Project URL: https://github.com/aruiz/webp-pixbuf-loader
 
